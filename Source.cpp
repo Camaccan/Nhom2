@@ -5,6 +5,7 @@ int tong(int a, int b);
 int hieu(int a, int b);
 int tich(int a, int b);
 float thuong(int a, int b);
+bool ktsnt(int n);
 int main()
 {
 	int a =2,b=3;
