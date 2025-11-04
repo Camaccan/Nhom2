@@ -7,9 +7,9 @@ int tich(int a, int b);
 float thuong(int a, int b);
 int main()
 {
-	int a = 2,b=4;
+	int a =2,b=3;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
-	cout<<"Tong ="<<tong(a,b);
+	cout<<"Tong ="<<a + b;
 	cout<<"Tich =";
 	cout<<"A";
 	system("pause");
