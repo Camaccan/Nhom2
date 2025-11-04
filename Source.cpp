@@ -9,6 +9,7 @@ int main()
 {
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tong =";
+	cout<<"Tich ="
 	system("pause");
 	return 0;
 }
