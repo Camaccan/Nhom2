@@ -9,7 +9,7 @@ int main()
 {
 	int a = 2,b=4;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
-	cout<<"Tong ="<<Tong(a,b);
+	cout<<"Tong ="<<tong(a,b);
 	cout<<"Tich =";
 	cout<<"A";
 	system("pause");
