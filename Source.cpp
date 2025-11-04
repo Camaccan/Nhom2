@@ -10,8 +10,9 @@ int main()
 	int a =2,b=3;
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tong ="<<a + b;
-	cout<<"Tich =";
 	cout<<"A";
+	cout<<"Tich ="<<a*b;
+	cout<<"B";
 	system("pause");
 	return 0;
 }
