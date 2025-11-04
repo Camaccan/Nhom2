@@ -10,6 +10,7 @@ int main()
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
 	cout<<"Tong =";
 	cout<<"Tich ="
+	cout<<"A";
 	system("pause");
 	return 0;
 }
